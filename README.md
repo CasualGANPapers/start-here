@@ -7,3 +7,5 @@ If you wish to contribute, please fill in this short form: https://forms.gle/cnS
 ### Active Projects
 
 Make-A-Scene: https://github.com/CasualGANPapers/Make-A-Scene
+
+StyleGANXL + CLIP: https://github.com/CasualGANPapers/StyleGANXL-CLIP
